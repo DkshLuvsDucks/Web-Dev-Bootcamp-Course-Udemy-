@@ -1,0 +1,30 @@
+.big-title {
+    font-size: 10rem;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.margin-50 {
+    margin-left: 100px;
+}
+
+body{
+    background-color: #8ace00;
+}
+
+img {
+    display:flex;
+    height: 100px;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+
+.hover {
+    color: white;
+    opacity: 80%;
+}
